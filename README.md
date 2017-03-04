@@ -1,7 +1,7 @@
 # pure-css-modal
 > simple pure css modal, just for fun
 
-Demo: [https://jsfiddle.net/vjs0cr9a/](https://jsfiddle.net/vjs0cr9a/)
+Demo: [https://jsfiddle.net/vjs0cr9a/1/](https://jsfiddle.net/vjs0cr9a/1)
 
 ```html
   <!DOCTYPE html>
